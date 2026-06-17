@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Survivaltec-0uko.aternos.me",
+    "port": 55201,
+    "version": "1.20",
     "try-creative": false
   },
   "position": {
